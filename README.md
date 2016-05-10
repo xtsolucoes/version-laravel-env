@@ -10,7 +10,6 @@ Instalação
 2.  Em seu arquivo .env será preciso adcionar as duas variáveis, ```APP_VERSION``` e ```APP_HASH```.
 
 ```APP_VERSION=0.0.0```
-```APP_HASH=```
 
 Deploy
 -----
