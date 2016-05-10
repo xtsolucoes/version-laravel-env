@@ -10,7 +10,7 @@ Instalação
 2.  Em seu arquivo .env será preciso adcionar as duas variáveis, ```APP_VERSION``` e ```APP_HASH```.
 
 
-Usando
+Deploy
 -----
 
 Este processo ultiliza internamente os serguintes comandos, do git ```git fetch && git checkout -f $NEW_VERSION``` onde a variável ```$NEW_VERSION``` será a versão do deploy, supondo que sua aplicação esteja na versão 0.1.1 e você irá atualizar para a versão 0.1.2 executado o comando como exemplo abaixo:
@@ -21,7 +21,7 @@ A Seguinte mensagem aparecerá
 
 ```Versao atual = 0.1.1 Efetuando deploy para versão: 0.1.2 (582fee5)```
 
-### Ultilizanado no Laravel 
+### Utilizando no Laravel 
 
 Após a autaliazação para ultilizar é bem simples.
 
