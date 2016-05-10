@@ -9,8 +9,6 @@ CURRENT_GIT_HASH=$(git rev-parse --short HEAD)
 # obter o novo número da versão da linha de comando
 NEW_VERSION="$1"
 
-echo NEW_VERSION
-
 # obter o número versão antiga do arquivo .env produção
 OLD_VERSION=$(grep -P "^APP_VERSION=[0-9]+\.[0-9]+\.[0-9]+$" "$LOCAL" | grep -Po "([0-9]+\.[0-9]+\.[0-9]+)")
 
