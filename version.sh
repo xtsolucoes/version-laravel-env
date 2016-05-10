@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Loja do local (desenvolvimento) .env arquivo no ambiente de desenvolvimento
+# .env arquivo no ambiente de producao
 LOCAL=.env
 
 # obter o valor de hash git
