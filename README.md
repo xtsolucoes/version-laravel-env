@@ -25,4 +25,4 @@ A Seguinte mensagem aparecerá
 
 Após a autaliazação para ultilizar é bem simples.
 
-```env('APP_VERSION')```
+``` env('APP_VERSION') ```
