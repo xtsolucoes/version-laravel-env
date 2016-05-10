@@ -19,7 +19,7 @@ Este processo ultiliza internamente os serguintes comandos, do git ```git fetch 
 
 A Seguinte mensagem aparecerá
 
-```Versao atual = 0.1.2 Efetuando deploy para versão: 0.1.3 (582fee5)```
+```Versao atual = 0.1.1 Efetuando deploy para versão: 0.1.2 (582fee5)```
 
 ### Ultilizanado no Laravel 
 
