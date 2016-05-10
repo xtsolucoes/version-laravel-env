@@ -7,7 +7,7 @@ Instalação
 ------------
 
 1.  Você deve salvar o arquivo version.sh no diretorio raiz do seu projeto
-2.  Em seu arquivo .env será preciso adcionar as duas variáveis, ```APP_VERSION=0.0.0``` e ```APP_HASH=```.
+2.  Em seu arquivo .env será preciso adcionar as duas variáveis, ```APP_VERSION=0.0.0``` e ```APP_HASH=```
 
 Deploy
 -----
